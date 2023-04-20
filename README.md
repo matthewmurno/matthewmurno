@@ -4,14 +4,11 @@ My name is Matthew Murno, I am currently a student at Boston College pursuing a 
 
 I enjoy building react applications and coming up with new ideas to tackle real world problems, as well as share information with friends.
 
-Some of the projects that I have worked on include **WatchedIt**, a single page react application that allows you to share the shows and movies that you are interested with your friends. I'm very interested in sharing things with others, and always need something to watch, so I came up with the idea to create a web/mobile based application that you can use to share your interestes with others
+Some of the projects that I have worked on include **WatchedIt**, a single page react application that allows you to share the shows and movies that you are interested with your friends. I'm very interested in sharing things with others, and always need something to watch, so I came up with the idea to create a web/mobile based application that you can use to share your interestes with others.
 
+Along with Watched It, I have been working on a clone of Atari Breakout, where my goal is to get it to a point where you can procedurally level up the paddle as you progress through the game, or add upgrades other aspects so it can scale to be a more difficult but rewarding experience.
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Although I'm interested in the programming side of developing web based applications, I have also done a lot of work with graphic design, and have made logos, icons and other assets for applicaitons as well.
 
-<!---
-matthewmurno/matthewmurno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently, I am learning webGL, to further develop games in the future, and learning how shapes are generated in the 3d space, whether it is through raytracing or rasterization. 
+
