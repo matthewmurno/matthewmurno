@@ -1,14 +1,10 @@
-Hello and welcome to my github profile.
+👋 Welcome to my GitHub profile!
 
-My name is Matthew Murno, I am currently a student at Boston College pursuing a Bachelors of Art in Computer Science, with a focus in Front End Web Development.
+I'm Matthew Murno, a dedicated Computer Science student at Boston College with a passion for software engineering. While my focus initially leaned towards Front End Web Development, my journey has evolved, delving deeper into the realm of software engineering.
 
-I enjoy building react applications and coming up with new ideas to tackle real world problems, as well as share information with friends.
+I find immense joy in crafting React applications and brainstorming innovative solutions to real-world challenges. One of my recent projects, WatchedIt, exemplifies this passion. It's a single-page React application designed for sharing favorite shows and movies with friends. As my interests expanded beyond web development, I'm now exploring the realm of game development.
 
-Some of the projects that I have worked on include **WatchedIt**, a single page react application that allows you to share the shows and movies that you are interested with your friends. I'm very interested in sharing things with others, and always need something to watch, so I came up with the idea to create a web/mobile based application that you can use to share your interestes with others. This would be in the form of a user generated profile, where you chose shows you have watched, and can generate a formatted hyperlink to share your favorite shows/movies. The goal is to eventually port this to a mobile applicaiton.
+My current endeavor involves creating a clone of Atari Breakout, with plans to implement procedural paddle leveling and other exciting features to enhance gameplay. Beyond coding, I've also honed my skills in graphic design, creating logos, icons, and other assets for various applications.
 
-Along with Watched It, I have been working on a clone of Atari Breakout, where my goal is to get it to a point where you can procedurally level up the paddle as you progress through the game, or add upgrades other aspects so it can scale to be a more difficult but rewarding experience.
-
-Although I'm interested in the programming side of developing web based applications, I have also done a lot of work with graphic design, and have made logos, icons and other assets for applicaitons as well.
-
-Currently, I am learning webGL, to further develop games in the future, and learning how shapes are generated in the 3d space, whether it is through raytracing or rasterization. 
+Continuously pushing my boundaries, I'm currently diving into WebGL to deepen my understanding of 3D graphics and game development. Exploring concepts like ray tracing and rasterization, I'm eager to unlock new possibilities in game design.
 
