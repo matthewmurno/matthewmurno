@@ -1,10 +1,16 @@
-👋 Welcome to my GitHub profile!
+👋 Welcome to my GitHub Profile!
+I'm Matthew Murno, a Computer Science graduate from Boston College, passionate about software engineering and continually expanding my skill set.
 
-I'm Matthew Murno, a dedicated Computer Science student at Boston College with a passion for software engineering. While my focus initially leaned towards Front End Web Development, my journey has evolved, delving deeper into the realm of software engineering.
+Initially, I focused on Front End Web Development, building projects like WatchedIt—a single-page React app for sharing favorite TV shows and movies with friends. This project reflects my love for creating clean, efficient, user-friendly applications.
 
-I find immense joy in crafting React applications and brainstorming innovative solutions to real-world challenges. One of my recent projects, WatchedIt, exemplifies this passion. It's a single-page React application designed for sharing favorite shows and movies with friends. As my interests expanded beyond web development, I'm now exploring the realm of game development.
+As my interests evolved, I started to shift more into software engineering, particularly in game development. My current project is a portfolio website where I can show of some of the projects I've worked on.
 
-My current endeavor involves creating a clone of Atari Breakout, with plans to implement procedural paddle leveling and other exciting features to enhance gameplay. Beyond coding, I've also honed my skills in graphic design, creating logos, icons, and other assets for various applications.
-
-Continuously pushing my boundaries, I'm currently diving into WebGL to deepen my understanding of 3D graphics and game development. Exploring concepts like ray tracing and rasterization, I'm eager to unlock new possibilities in game design.
-
+🔭 Current Projects:
+WatchedIt – A React-based movie and TV show-sharing platform.
+Atari Breakout Clone – Exploring game mechanics with procedural elements for enhanced player experience.
+Eagle Plan - A Django web application used to create 4-year plans for Boston College students
+Wandering Mind -  a 2D isometric video game with combat, my first venture into a more modern style video game
+🧠 What I’m Learning:
+I am delving into Node.js to expand my backend development skills, alongside software engineering principles.
+🎨 Graphic Design:
+Beyond coding, I enjoy graphic design, creating logos, icons, and other digital assets for my projects.
