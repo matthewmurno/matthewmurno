@@ -10,7 +10,9 @@ WatchedIt – A React-based movie and TV show-sharing platform.
 Atari Breakout Clone – Exploring game mechanics with procedural elements for enhanced player experience.
 Eagle Plan - A Django web application used to create 4-year plans for Boston College students
 Wandering Mind -  a 2D isometric video game with combat, my first venture into a more modern style video game
+
 🧠 What I’m Learning:
 I am delving into Node.js to expand my backend development skills, alongside software engineering principles.
+
 🎨 Graphic Design:
 Beyond coding, I enjoy graphic design, creating logos, icons, and other digital assets for my projects.
